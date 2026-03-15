@@ -36,6 +36,7 @@ Interactive pizza ordering chatbot built with Panel + Groq AI.
 - Automatic receipt generation
 - Delivery/pickup options
 
-## Screenshot
+## 📸 Screenshot
 
-`![PizzaBot Screenshot](screenshot.png)`
+![PizzaBot Screenshot](screenshot.png)
+
